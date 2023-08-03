@@ -17,8 +17,17 @@ All exercises are written in Python 3. Each exercise has a Jupyter Notebook of i
 11. Molecular Dynamics (2D Simulation of Argon Atoms with Lennard-Jones Potential)
 12. The Traveling Salesman Problem with Genetic Algorithm
 
-## Some Cool Illustrations:
-![Random Deposition](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_3_1/RandomDeposition.mp4)
+## Some of the Illustrations:
+![Barnsley](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_6/BarnselyRandom.jpg)
+![Julia Set](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_7/JuliaSet(-0.8%2B0.16j).jpg)
+![Aggregation](https://github.com/af6echo/Computational-Physics/blob/main/CP3_98100967/Exercise_3_4/CBDGraphic4.jpg)
+![Random WAlk Census Algorithm](https://github.com/af6echo/Computational-Physics/blob/main/CP5_98100967/Exercise_5_4/Exercise5_4_19.jpg)
+![Gaussian from Uniform](https://github.com/af6echo/Computational-Physics/blob/main/CP7_98100967/Exercise8_1/Exercise8_1_6.jpg)
+![ODE Algorithm Errors](https://github.com/af6echo/Computational-Physics/blob/main/CP9_98100967/Exercise_9_3/ErrorAnalysis.jpg)
+![Ising](https://github.com/af6echo/Computational-Physics/blob/main/CP8_98100967/Exercise9_1/Visualization06.jpg)
+![Bifurcation](https://github.com/af6echo/Computational-Physics/blob/main/CP10_98100967/Exercise_10_1/LogisticMap.jpg)
+
+![Random Deposition](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_3_1/RandomDeposition.gif)
 
 
 Read the reports for each assignment for more in-depth explanation. The $\LaTeX$ template used for the reports is taken from [here](https://www.latextemplates.com/template/fphw-assignment).
