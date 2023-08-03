@@ -30,16 +30,21 @@ All exercises are written in Python 3. Each exercise has a Jupyter Notebook of i
     <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP11_98100967/SolidPhase_vmax01.gif" height="30%" width="30%" hspace="10" >
 </p>
 
+<p>
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_6/BarnselyRandom.jpg" height="20%" width="20%" hspace="10" >
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_7/JuliaSet(-0.8%2B0.16j).jpg" height="20%" width="20%" hspace="10" >
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP3_98100967/Exercise_3_4/CBDGraphic4.jpg" height="20%" width="20%" hspace="10" >
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP10_98100967/Exercise_10_1/LogisticMap.jpg" height="20%" width="20%" hspace="10" >
+    <p>
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP8_98100967/Exercise9_1/Visualization03.jpg" height="30%" width="100%" >
+    <p>
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP8_98100967/Exercise9_1/Visualization06.jpg" height="30%" width="100%" >
+    <p>
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP5_98100967/Exercise_5_4/Exercise5_4_19.jpg" height="30%" width="20%" hspace="10" >
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP7_98100967/Exercise8_1/Exercise8_1_6.jpg" height="30%" width="40%" hspace="10" >
+    <img src="https://github.com/af6echo/Computational-Physics/blob/main/CP9_98100967/Exercise_9_3/ErrorAnalysis.jpg" height="30%" width="20%" hspace="10" >
+</p>
 
-![Barnsley](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_6/BarnselyRandom.jpg)
-![Julia Set](https://github.com/af6echo/Computational-Physics/blob/main/CP2_98100967/Exercise_2_7/JuliaSet(-0.8%2B0.16j).jpg)
-![Aggregation](https://github.com/af6echo/Computational-Physics/blob/main/CP3_98100967/Exercise_3_4/CBDGraphic4.jpg)
-![Random WAlk Census Algorithm](https://github.com/af6echo/Computational-Physics/blob/main/CP5_98100967/Exercise_5_4/Exercise5_4_19.jpg)
-![Gaussian from Uniform](https://github.com/af6echo/Computational-Physics/blob/main/CP7_98100967/Exercise8_1/Exercise8_1_6.jpg)
-![ODE Algorithm Errors](https://github.com/af6echo/Computational-Physics/blob/main/CP9_98100967/Exercise_9_3/ErrorAnalysis.jpg)
-https://github.com/af6echo/Computational-Physics/blob/main/CP8_98100967/Exercise9_1/Visualization03.jpg
-![Ising](https://github.com/af6echo/Computational-Physics/blob/main/CP8_98100967/Exercise9_1/Visualization06.jpg)
-![Bifurcation](https://github.com/af6echo/Computational-Physics/blob/main/CP10_98100967/Exercise_10_1/LogisticMap.jpg)
 
 
 Read the reports for each assignment for more in-depth explanation. The $\LaTeX$ template used for the reports is taken from [here](https://www.latextemplates.com/template/fphw-assignment).
